@@ -11,3 +11,28 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
 }
+
+.Address {
+  list-style: none;
+  padding: 5%;
+  width: 20vh;
+  height: 30%;
+  font-size: 15px;
+}
+
+button {
+  color: black;
+  background-color: lightblue;
+  margin-bottom: 20px;
+}
+
+ul{
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+}
+
+.Name {
+  font-size: 20px;
+  border-bottom: solid black 2px;
+}
